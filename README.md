@@ -1,4 +1,4 @@
-# -Research-on-the-Marketing-of-Dendranthema-vestitum-a-Natural-Targeted-Drug-for-Liver-Cancer
+# Research-on-the-Marketing-of-Dendranthema-vestitum-a-Natural-Targeted-Drug-for-Liver-Cancer
 This project conducted an in-depth market analysis for Dendranthema vestitum, a natural targeted drug for liver cancer, with a focus on strategic market entry and product development. The research emphasized forecasting market potential, evaluating risks, and formulating marketing strategies to support drug commercialization.
 
 Key Objectives：
