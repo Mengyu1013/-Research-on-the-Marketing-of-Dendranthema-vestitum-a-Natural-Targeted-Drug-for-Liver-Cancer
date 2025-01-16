@@ -18,8 +18,6 @@ Deliverables：
 This project provides strategic recommendations for the pharmaceutical industry, including insights into growth opportunities, risks, and distribution strategies. The repository contains detailed market analysis, forecasting models, and strategic reports.
 
 Technologies Used：
-Python
-R (Time Series Modeling)
-Statistical Analysis Tools
+Python，R (Time Series Modeling)，Statistical Analysis Tools
 
 This research demonstrated a strong ability to integrate data-driven approaches with strategic decision-making to tackle real-world market challenges.
